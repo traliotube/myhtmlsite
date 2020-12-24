@@ -1,7 +1,8 @@
 # Redirects
 /home              /    301
-/youtube           https://rebrand.ly/bunny-channel    301
-/meet              http://whereby.com/bunny-org    301
-/redirect          https://github.com/traliotube/myhtmlsite/edit/main/_redirects    301
-/site              https://rebrand.ly/bunny-website    200
+/youtube           https://rebrand.ly/bunny-channel
+/meet              http://whereby.com/bunny-org
+/redirect          https://github.com/traliotube/myhtmlsite/edit/main/_redirects
+/site              https://rebrand.ly/bunny-website
+/calculator        /calulator/calculator
   
